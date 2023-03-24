@@ -1,1 +1,3 @@
-here I am simply trying to grasp the utility of Git and Github.
+here I am simply trying to grasp the utility and functioning of Git and Github.
+
+
